@@ -2,8 +2,9 @@ package Test;
 
 public class Test02 {
 
-	public static void main(String[] args) {
-System.out.println("HELLO");
-	}
+	public static void main(String[] args) 
+   {
+    System.out.println("HELLO");
+   }
 
 }
