@@ -7,10 +7,10 @@ import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class LaunchingBrowser {
+public class LaunchingBrowser_Test {
 	
 
-	//public static void main(String[] args) {
+	
 		
 		@Test
 		public void Launching()
